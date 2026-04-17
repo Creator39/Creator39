@@ -22,5 +22,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creator39&show_icons=true&theme=dark)
 
 ## 📫 Contact
-- LinkedIn: [ton-profil](#)
-- Email: ton@email.com
+- LinkedIn: http://www.linkedin.com/in/derandri
+- Email: derandri@student.42antananarivo.mg
