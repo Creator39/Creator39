@@ -21,6 +21,8 @@
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
   ## 💻 Programming Languages
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
     
