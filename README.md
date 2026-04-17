@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://media.giphy.com/media/ieyl7QxKMfoFpPfxZk/giphy.gif" width="600" height="200"/>
+
   # 👋 Hi, I'm Creator39
   🎓 Student at **42 Antananarivo** | DevOps & SRE Enthusiast
   
