@@ -20,7 +20,7 @@
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-  ### <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4b31df43-3cbd-46bc-bcc9-6ab4e1459812" />
+  ### <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4b31df43-3cbd-46bc-bcc9-6ab4e1459812" /> Language
   
 
   
