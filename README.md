@@ -5,8 +5,6 @@
 # 👋 Hi, I'm Creator39
 🎓 Student at **42 Antananarivo** | DevOps & SRE Enthusiast
 
-</div>
-
 ## 🧰 Skills & Technologies
 
 ### 💻 Programming Languages
@@ -28,6 +26,8 @@
 ### 🌐 Networking & Systems
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+</div>
 
 <div align="center">
 
