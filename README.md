@@ -40,7 +40,7 @@
   
   ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/derandri)
-</div>
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:derandri@student.42antananarivo.mg)
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:derandri@student.42antananarivo.mg)
 
 </div>
