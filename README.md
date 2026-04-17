@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRibHVyeThjbWpmMmtqNTVkaWZjdjZiczRvZ3AwMGJmZmtrMWk4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="900" height="150"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRibHVyeThjbWpmMmtqNTVkaWZjdjZiczRvZ3AwMGJmZmtrMWk4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="800" height="200"/>
 
 # 👋 Hi, I'm Creator39
 🎓 Student at **42 Antananarivo** | DevOps & SRE Enthusiast
