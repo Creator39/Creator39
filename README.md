@@ -22,7 +22,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creator39&show_icons=true&theme=dark)
 
 ## 🚀 What I'm currently working on
-- 🔧 Building and automating infrastructure environments at **42 Antananarivo**
 - 🐳 Setting up containerized applications with **Kubernetes**
 - 🛠️ Working on CI/CD pipelines for learning.
 
