@@ -34,8 +34,6 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creator39&show_icons=true&theme=dark)
 
-</div>
-
 ## 🚀 What I'm currently working on
 - 🐳 Setting up containerized applications with **Kubernetes**
 - 🛠️ Working on CI/CD pipelines for learning.
@@ -45,6 +43,8 @@
 ## 📚 What I'm currently learning
 - ☸️ **Kubernetes** — container orchestration at scale
 - 🦀 **Rust** — a new Language for low-level
+
+</div>
 
 <div align="center">
 
