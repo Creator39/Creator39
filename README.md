@@ -36,10 +36,12 @@
   ## 🚀 What I'm currently working on
   - 🐳 Setting up containerized applications with **Kubernetes**
   - 🛠️ Working on CI/CD pipelines for learning.
+  - 🦀 Currently learning **Rust** — exploring systems programming and memory safety
+  - ☸️ Currently learning **Kubernetes** — diving into container orchestration at scale
   
   ## 📚 What I'm currently learning
   - ☸️ **Kubernetes** — container orchestration at scale
-  - 🔐 **DevSecOps** — integrating security into the DevOps pipeline
+  - 🦀 **Rust** — a new Language for low-level
   
   <div align="center">
   
