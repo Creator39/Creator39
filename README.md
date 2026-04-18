@@ -31,18 +31,49 @@
 
 <div align="center">
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creator39&show_icons=true&theme=dark)
-
 ## 🚀 What I'm currently working on
- 🐳 Setting up containerized applications with **Kubernetes**
- 🛠️ Working on CI/CD pipelines for learning.
-![Go](https://img.shields.io/badge/Learning-Go-00ACD7?style=flat&logo=go&logoColor=white)
- ☸️ Currently learning **Kubernetes** — diving into container orchestration at scale
+
+<table>
+  <tr>
+    <td>
+      <strong>🐳 Containerized Apps</strong><br/>
+      Setting up containerized applications with Kubernetes<br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+    </td>
+    <td>
+      <strong>🛠️ CI/CD Pipelines</strong><br/>
+      Building and automating pipelines for continuous delivery<br/>
+      <img src="https://img.shields.io/badge/DevOps-0F6E56?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📚 What I'm currently learning
- ☸️ **Kubernetes** — container orchestration at scale
- 🦀 **Rust** — a new Language for low-level
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/><br/>
+      <strong>Go</strong><br/>
+      <sub>Systems programming & concurrency</sub><br/>
+      <img src="https://img.shields.io/badge/Learning-Go-00ACD7?style=flat-square&logo=go&logoColor=white"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/>
+      <strong>Kubernetes</strong><br/>
+      <sub>Container orchestration at scale</sub><br/>
+      <img src="https://img.shields.io/badge/Learning-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/><br/>
+      <strong>Rust</strong><br/>
+      <sub>Low-level & memory safety</sub><br/>
+      <img src="https://img.shields.io/badge/Learning-Rust-CE422B?style=flat-square&logo=rust&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
