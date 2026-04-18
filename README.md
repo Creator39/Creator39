@@ -67,7 +67,7 @@
       <img src="https://img.shields.io/badge/Learning-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
     </td>
     <td align="center" width="200">
-  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128.png" width="40"/><br/>
+ <img src="https://cdn.simpleicons.org/rust/CE422B" width="40"/>
   <strong>Rust</strong><br/>
   <sub>Low-level & memory safety</sub><br/>
   <img src="https://img.shields.io/badge/Learning-Rust-CE422B?style=flat-square&logo=rust&logoColor=white"/>
