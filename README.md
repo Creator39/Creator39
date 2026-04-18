@@ -37,7 +37,7 @@
 ## 🚀 What I'm currently working on
  🐳 Setting up containerized applications with **Kubernetes**
  🛠️ Working on CI/CD pipelines for learning.
- 🦀 Currently learning **Rust** — exploring systems programming and memory safety
+![Go](https://img.shields.io/badge/Learning-Go-00ACD7?style=flat&logo=go&logoColor=white)
  ☸️ Currently learning **Kubernetes** — diving into container orchestration at scale
 
 ## 📚 What I'm currently learning
